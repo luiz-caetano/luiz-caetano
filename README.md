@@ -24,7 +24,7 @@
 
 ###
 
-<img align="right" height="500" src="https://img.pokemondb.net/sprites/black-white/anim/normal/swampert.gif"  />
+<img align="right" style="width: 200px; image-rendering: pixelate" src="https://img.pokemondb.net/sprites/black-white/anim/normal/swampert.gif"  />
 
 ###
 
