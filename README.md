@@ -2,7 +2,10 @@
 
 ###
 
-<p align="left">Nice to meet you!<br>My name is Luiz, I'm a Java enjoyer and a beginner TypeScript Developer.<br> I'm passionate in building stuff from scratch. Here you can see some of my projects. Feel free to DM me in my socials:</p>
+<p align="left">Nice to meet you!<br>My name is Luiz, 
+  Ceo at Kartano.<br>
+  I'm passionate in building stuff from scratch. Here you can see some of my projects. 
+  Feel free to DM me in my socials:</p>
 
 ###
 
