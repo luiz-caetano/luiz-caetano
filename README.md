@@ -23,7 +23,7 @@
 
 ###
 
-<h2 align="left">👤 | About me</h2>
+<h2 align="left">About me</h2>
 
 ###
 
@@ -31,7 +31,7 @@
 
 ###
 
-<p align="left">♨️ Java and TypeScript Developer<br>🎓 I'm currently learning React and NextJS<br>🎯 Goals: Build really useful webapps.<br>🎲 Fun fact: I love pokemon and Hunter x Hunter</p>
+<p align="left">Fullstack Developer<br>I'm currently learning React and NextJS<br>
 
 ###
 
