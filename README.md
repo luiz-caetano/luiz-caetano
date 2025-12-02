@@ -31,7 +31,7 @@
 
 ###
 
-<p align="left">Fullstack Developer<br>I'm currently learning React and NextJS<br>
+<p align="left">Fullstack Developer<br>I'm currently learning React and NextJS<br>I am currently pursuing a bachelor's degree in Software Engineering.<br>
 
 ###
 
