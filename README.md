@@ -2,21 +2,21 @@
 
 ###
 
-<p align="left">Nice to meet you!<br>My name is Luiz, 
-  Ceo at Kartano.<br>
+<p align="left">Nice to meet you!<br>My name is Luiz.<br>
   I'm passionate in building stuff from scratch. Here you can see some of my projects. 
   Feel free to DM me in my socials:</p>
 
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/luiz-caetano/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <a class="no-underline" href="https://www.linkedin.com/in/luiz-caetano/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://discordapp.com/users/420731558505349122" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <a class="no-underline" href="https://discord.com/users/420731558505349122" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
 </div>
+
 
 ###
 
@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">Fullstack Developer<br>I'm currently learning React and NextJS<br>I am currently pursuing a bachelor's degree in Software Engineering.<br>
+<p align="left">Backend Developer<br>I'm currently learning Docker and AWS<br>I am currently pursuing a bachelor's degree in Computer Science.<br>
 
 ###
 
@@ -36,20 +36,17 @@
 
 ###
 
+
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
+  <img src="https://skillicons.dev/icons?i=spring" height="60" alt="spring logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=angular" height="60" alt="angularjs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
 </div>
 
 ###
